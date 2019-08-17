@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Animal Crossing Countdown",
+    "description": "Simple new tab page that has a a clock and date. Also contains a countdown to Animal Crossing New Horizons' release date as well as a place for 18 links.",
+    "version": "0.0.0.1",
+    "minimum_chrome_version": "46",
+    "content_security_policy": "script-src 'self' https://cdn.jsdelivr.net/gh/kyfosh/AC_extension/moment.js https://cdn.jsdelivr.net/gh/kyfosh/AC_extension/bgpic5-1.js https://cdn.jsdelivr.net/gh/kyfosh/AC_extension/getTime.js; object-src 'self'",
+
+    "permissions" : ["management", "fontSettings"],
+    "chrome_url_overrides" : {
+        "newtab": "newtab.html"
+    }
+}
