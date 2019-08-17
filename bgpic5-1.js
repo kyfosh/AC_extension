@@ -1,7 +1,6 @@
 function myFunction() {
 var image = [
   "https://lh3.googleusercontent.com/KPy8DsEcr9NoHHATcAx55nApiZ5VsmbPtanpno1tOGeiMJVkXHFqUdBhzStGcy8rL-Q4If0jUzPSqFEvutx4jYbB22GMD5hxS-4H-qXqhtO4t1vc9jquuycmHuV11XOufhoX8U_PMA=w2400",
-  "https://lh3.googleusercontent.com/vQ_wCrn_nItvrTP_QfYuyqoRjrJ-0H28hin3hW52T_1oJ0rwag8l-zQYM82E332HSsYt6kPjg0GwX29lGMF__G5vknR_tTAKL-VuTj3prM-B0v9a980lSBcsAUhZnoFmJFTqP_AMcQ=w2400",
   "https://lh3.googleusercontent.com/PjDJGZfLNQH-JqpVwUJMbVAmbp3nqTcD8nJWXzh0q6KLOiYQPULYZUNoYacXOnsQoQSkgx01JjgEO6IMXjV_vAvMo4CPzURWFi_YsHROo8zl09PKJWBloiEOE4yzKdcsFyzUK8hU3w=w2400",
   "https://lh3.googleusercontent.com/cQsC6-8RA6tuD_iz11JPltyuCOB1-x6YU_mgmPk5FhdniRZF8GafJrXJm_ZkOgWQOYWA1TryypcdHqE1iv_aoY-HbRjpEUnEjIZciJVqh_YZdJwSE6Mr_h7492THbuX-uCOs9TL7sw=w2400",
   "https://lh3.googleusercontent.com/vXwCt5b3s8lyjB6_fvPymG5Xc0ntGJoy0RA4gzNxwX08GT6lPt57PXzQsCBy1rVrZP12__nsp2VyW4Nxq3_3w3DpBhTXasjGcpoE68Obs8q7liZ_Wpmp-Bc12c1YB4zPVcYAK64rGQ=w2400",
