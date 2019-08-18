@@ -9,3 +9,4 @@ document.getElementById("exit").addEventListener("click", function(event){
  });
 
  }
+z = defaultTab();
