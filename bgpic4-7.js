@@ -5,10 +5,14 @@ var image = [
   "https://lh3.googleusercontent.com/cL7-xJkqWgrMG82Pt2et1W5_KQV6Dn7JZPnP2keSBfAcYsygJIJy7CFK-QFxjX1mmyAhshVyZDxC5EDEx2OdrKIPUQn5cqUIwFfoNBbU5rURIA3hf43BbjKdYx3Px0hZKVA0PTojMA=w2400",
   "https://lh3.googleusercontent.com/tunhasj6YeyTaUJCEk9Wam_XcZ3MzZpm0mNU3vrK3ClWPlayXEzZt-WwlRGg7r2xsuKE_o94TmyjRDSAlGDN8iDztd1PgfZf6mJ4IHwnPk0BKKmSfuAIGZYO5tKDKmiIQzsUEXbCqQ=w2400"
 ];
-  document.body.style.backgroundColor = "#000";
+  
+  
+ var color = ["000", "#b3f4f4", "#000", "#405aa8"];
   var ran = Math.random();
   var num = Math.round(3*ran);
 
+   
+  document.body.style.backgroundColor = color[num];
   document.body.style.backgroundImage = "url('"+ image[num] + "')";
   document.body.style.backgroundSize = "auto auto";
   t = setTimeout(function(){myFunction()}, 3600000)
