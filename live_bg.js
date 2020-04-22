@@ -12,7 +12,7 @@ var image = [
   
  var color = ["000", "#b3f4f4", "#000", "#405aa8"];
   var ran = Math.random();
-  var num = Math.round(3*ran);
+  var num = Math.round(7*ran);
 
    
   document.body.style.backgroundColor = color[num];
